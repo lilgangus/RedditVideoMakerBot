@@ -1,3 +1,4 @@
+<!-- To access the keys go to reddit.com/prefs/apps -->
 # Reddit Video Maker Bot 🎥
 
 All done WITHOUT video editing or asset compiling. Just pure ✨programming magic✨.
@@ -80,18 +81,3 @@ I have tried to simplify the code so anyone can read it and start contributing a
 - [x] Light and Dark modes
 - [x] NSFW post filter
 
-Please read our [contributing guidelines](CONTRIBUTING.md) for more detailed information.
-
-## Developers and maintainers.
-
-Elebumm (Lewis#6305) - https://github.com/elebumm (Founder)
-
-Jason (JasonLovesDoggo#1904) - https://github.com/JasonLovesDoggo (Maintainer)
-
-CallumIO (c.#6837) - https://github.com/CallumIO
-
-Verq (Verq#2338) - https://github.com/CordlessCoder 
-
-LukaHietala (Pix.#0001) - https://github.com/LukaHietala
-
-Freebiell (Freebie#3263) - https://github.com/FreebieII
